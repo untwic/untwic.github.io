@@ -1,0 +1,32 @@
+body {
+}
+
+.navbar {
+  padding-top: 10px;
+  background: ;
+  border: none;
+}
+
+.brand {
+  float: left;
+  font-size: 1.5em;
+  color: #222;
+}
+
+.navbar .nav {
+  position: relative;
+  display: block;
+  list-style: none;
+}
+
+#navoptions {
+  float: right;
+  padding: 5px;
+}
+
+#navoptions li {
+  display: inline;
+  margin: 10px;
+  color: ;
+}
+
